@@ -1,0 +1,8 @@
+.fonts {
+    font-size: 25px;
+    transition: 0.5s ease;
+}
+
+.fonts :hover {
+    font-size: 30px;
+}
